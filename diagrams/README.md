@@ -1,0 +1,122 @@
+[remote-network-architecture.drawio](https://github.com/user-attachments/files/32542975/remote-network-architecture.drawio)
+<img width="1092" height="1101" alt="remote-network-architecture (1)" src="https://github.com/user-attachments/assets/a434b58a-035c-40ef-bdae-c9ea1218e92a" />
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="z2bxLutRT_qwI3wvx74x">
+    <mxGraphModel dx="1323" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yVdBUb149D7pXtalWJS_-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="In" vertex="1">
+          <mxGeometry height="1090" width="1090" x="35" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="1025" x="75" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="590" width="1010" x="75" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-19" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-5" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop;gradientColor=default;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;LAPTOP&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="521.67" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-20" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-6" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" value="Home Wi-Fi Router" vertex="1">
+          <mxGeometry height="90" width="98" x="522.67" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-21" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-7" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="Internet" vertex="1">
+          <mxGeometry height="60" width="60" x="550" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-31" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.691;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.71299999999997" y="710.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-33" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-8" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" value="Firewall" vertex="1">
+          <mxGeometry height="80" width="80" x="540" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-9" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" value="Web Server" vertex="1">
+          <mxGeometry height="50" width="40" x="442" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-63" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-11" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/infrastructure/1/Server-94.svg" value="Inteenal Server" vertex="1">
+          <mxGeometry height="60" width="32" x="900" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-34" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-44" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-46" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yVdBUb149D7pXtalWJS_-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-48" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-12" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Switch&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="675" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-13" parent="1" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;PC1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="684" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-16" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#005073;" value="WAP" vertex="1">
+          <mxGeometry height="50" width="50" x="891" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-23" edge="1" parent="1" source="yVdBUb149D7pXtalWJS_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yVdBUb149D7pXtalWJS_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-17" parent="1" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+          <mxGeometry height="40" width="60" x="550" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-37" parent="1" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;PC2&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="510" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="Encrypted VPN Tunnel" vertex="1">
+          <mxGeometry height="30" width="80" x="630" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="Wi-Fi" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=15;" value="REMOTE LOCATION" vertex="1">
+          <mxGeometry height="40" width="190" x="150" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ethernet" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-59" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=light-dark(#000000,#FFFFFF);darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;autosizeText=1;fontSize=12;labelBackgroundColor=none;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;VPN;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Encrypted remote connection&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Remote employee access&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Authentication required&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="106" x="415.67" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-60" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=light-dark(#000000,#FFFFFF);darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;autosizeText=1;fontSize=11;" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Firewall;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Traffic filtering&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• VPN gateway&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Access control&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Network segmentation&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="737" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Secure Network Architecture For Remote Employee Access To Company Resources&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="900" x="130" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-62" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=light-dark(#000000,#FFFFFF);darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;autosizeText=1;fontSize=13;" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Internal Network;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;•&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt; Private resources&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;• Employee systems&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;• Internal servers&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;• Access controlled&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="100" x="900" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="yVdBUb149D7pXtalWJS_-65" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=light-dark(#000000,#FFFFFF);darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;autosizeText=1;fontSize=12;labelBackgroundColor=none;" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-shadow: none !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;DMZ;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none; font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-shadow: none !important;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;• &lt;/span&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Public-facing services&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none; font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-shadow: none !important;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Isolated from internal network&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none; font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-shadow: none !important;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;• Restricted access&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="106" x="280" y="665" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
