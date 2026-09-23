@@ -97,7 +97,7 @@ These addresses are used as example private network segments for the design and 
 
 The full network architecture diagram is available in the `diagrams` folder.
 
-![Remote Employee Network Architecture](screenshots/01-remote-network-architecture.png)
+![Remote Employee Network Architecture](screenshots/01-network-architecture.png)
 
 ## Tools Used
 
